@@ -3,18 +3,20 @@
 
 </br>
 </br>
+
+<p align="center">
+  <img src="https://github.com/PhanumasV/PhanumasV/blob/acf767e1849b40201b5f0b43b1f1b8b1314f1c79/reze-reze-chainsaw-man-gif.gif" width="80%">
+</p>
+
+
 </br>
-
-📱 Developed Android Restaurant Finder App using Yelp Fusion API  
-🗄️ Designed relational databases with MySQL  
-🧠 Strong foundation in Object-Oriented Programming  
-
----
+</br>
 
 ### 🌱 Currently Growing In:
 - Android Development (Java / SDK)
 - Database Optimization
 - Object-Oriented Programming
+
 
 ---
 
@@ -30,6 +32,11 @@
 🗄 MySQL  
 🌐 HTML / CSS  
 🔧 GitHub  
+
+
+---
+
+### 🦖 Games • Code • Music • Anime • 
 
 ---
 
@@ -47,18 +54,3 @@
 🌍 Montréal, QC  
 🔗 github.com/PhanumasV
 
-
-<!--
-**PhanumasV/PhanumasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
